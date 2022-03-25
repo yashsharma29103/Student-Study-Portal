@@ -2,7 +2,7 @@
 
 #A portal for students created by
 #      -Django
-#      -Mysql
+#      -sqlite3
  #     -HTML
  #     -CSS
   #    and little Javascript
